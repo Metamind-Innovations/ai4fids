@@ -1,0 +1,11 @@
+tensorflow-cpu==2.13.0
+scikit-learn
+scapy
+pcap-splitter
+pandas
+kafka-python-ng
+confluent_kafka
+pyfiglet
+tqdm
+pydantic
+watchdog

@@ -1,0 +1,22 @@
+{
+    "mode": "online",
+    "paths": {
+      "offline": "test/dummy_flow/flow.csv",
+      "online": "unlabelled-csv"
+    },
+    "scaler_path": "models/scaler.joblib",
+    "encoder_path": "models/label_encoder.joblib",
+    "model_path": "models/model.h5",
+    "output_dir": "output",
+    "features_to_drop": ["Flow ID","Src IP","Src Port","Dst IP", "Dst Port", "Protocol", "Label", "Timestamp"],
+    "label_keyword": "Label",
+    "kafka": {
+        "enabled": false,
+        "brokers": "ai4fids.kafka.com:9093",
+        "ca_cert": "kafka_certs/CARoot.pem",
+        "cert_file": "kafka_certs/certificate.pem",
+        "key_file": "kafka_certs/RSAkey.pem",
+        "password": "***********",
+        "topic": "ai4fids.sc3.1.events"
+    }
+}

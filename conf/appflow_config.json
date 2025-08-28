@@ -1,0 +1,17 @@
+{
+    "General": {
+        "FLOW_TIMEOUT_SECONDS": 15,
+        "OPERATION_MODE": "ONLINE",
+        "OFFLINE_PCAP_FILES": [],
+        "OUTPUT_KAFKA": false,
+        "ONLINE_CAPTURE_INTERFACE": "lo",
+        "ONLINE_CAPTURE_DURATION": "15s",
+        "ONLINE_CAPTURE_PORTS_WHITELIST": [],
+        "FLOW_MODULES": ["CICFLOWMETER"]
+    },
+    "Labelling": {
+        "INPUT_CSV_FILES": [],
+        "INPUT_PCAP_FILES": [],
+        "Malicious_IP": ["192.168.21.225"]
+    }
+}

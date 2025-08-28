@@ -1,0 +1,64 @@
+2025-08-28 18:07:55 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:07:55 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:07:56 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:07:56 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:08:06 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:07:56 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:07:57 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:07:57 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:07:57 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:07:58 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:07:58 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:07:58 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:07:59 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:07:59 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:07:59 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:08:00 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:08:00 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:08:00 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:08:00 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:08:01 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:08:01 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:08:01 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:08:01 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:08:02 INFO  cic.cs.unb.ca.ifm.Cmd    The pcap file or folder does not exist! -> ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:09:02 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:09:02 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../../unlabelled-csv
+2025-08-28 18:09:03 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-08-28 18:09:03 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:12:39 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:12:39 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../../unlabelled-csv
+2025-08-28 18:12:40 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-08-28 18:12:40 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:12:54 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:12:54 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../../unlabelled-csv
+2025-08-28 18:12:54 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-08-28 18:12:54 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:13:08 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:13:08 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../../unlabelled-csv
+2025-08-28 18:13:08 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-08-28 18:13:08 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:13:22 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:13:22 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../../unlabelled-csv
+2025-08-28 18:13:22 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-08-28 18:13:23 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:13:37 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:13:37 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../../unlabelled-csv
+2025-08-28 18:13:37 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-08-28 18:13:37 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:13:51 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:13:51 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../../unlabelled-csv
+2025-08-28 18:13:51 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-08-28 18:13:52 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:14:05 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:14:05 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../../unlabelled-csv
+2025-08-28 18:14:06 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-08-28 18:14:06 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:14:20 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:14:20 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../../unlabelled-csv
+2025-08-28 18:14:20 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-08-28 18:14:20 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:14:34 INFO  cic.cs.unb.ca.ifm.Cmd    You select: ../../labelled-pcap/capture_temp.pcap
+2025-08-28 18:14:34 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: ../../unlabelled-csv
+2025-08-28 18:14:34 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-08-28 18:14:34 DEBUG cic.cs.unb.ca.jnetpcap.PacketReader    Read All packets on ../../labelled-pcap/capture_temp.pcap
