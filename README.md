@@ -50,7 +50,7 @@ To ensure that AI4FIDS works properly, create the following folders:
 6. Make sure you can run tcpdump without root privileges (https://medium.com/@hafizfarhad/fix-tcpdump-eth0-you-dont-have-permission-to-perform-this-capture-on-that-device-3941395be45c)
 
 ## Configuration
-The two core modules of ai4fids are the `appflowmeter` and `inference_engine.inference`. These should be configured seperately.
+The two core modules of ai4fids are the `appflowmeter` and `inference_engine.inference`. These should be configured separately.
 Configure `appflowmeter` by creating a `conf/appflow_config.json` file and filling it accordingly (check bellow the template).
 
 ```json
