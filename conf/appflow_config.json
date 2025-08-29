@@ -11,7 +11,6 @@
     },
     "Labelling": {
         "INPUT_CSV_FILES": [],
-        "INPUT_PCAP_FILES": [],
-        "Malicious_IP": ["192.168.21.225"]
+        "INPUT_PCAP_FILES": []
     }
 }

@@ -17,6 +17,6 @@
         "cert_file": "kafka_certs/certificate.pem",
         "key_file": "kafka_certs/RSAkey.pem",
         "password": "***********",
-        "topic": "ai4fids.sc3.1.events"
+        "topic": "ai4fids.events"
     }
 }
