@@ -123,7 +123,7 @@ Configure `inference_engine.inference` by creating a `conf/inf_config.json` file
 | `features_to_drop`  |  The features that should be excluded from the dataset |  List of strings |
 | `label_keyword` |  The keyword of the label as appears in the columns of the flows .csv file |  String |
 | `kafka.enabled`     | Enable message produciton to kfka topic | Boolean |
-| `kafka.*`     | All kafka-related configuration (apart from `kafka.enabled`) are self-explenatory | String |
+| `kafka.*`     | All kafka-related configuration (apart from `kafka.enabled`) are self-explanatory | String |
 
 ## Execution
 
