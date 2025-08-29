@@ -1,6 +1,6 @@
 # AI4FIDS
 
-A collection of modules that generate protocol-specific flow statistics and performs AI-based intrusion detection. 
+A collection of modules that generate protocol-specific flow statistics and perform AI-based intrusion detection. 
 
 ## Data folders
 To ensure that AI4FIDS works properly, create the following folders:
